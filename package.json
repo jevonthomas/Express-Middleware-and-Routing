@@ -1,0 +1,20 @@
+{
+  "name": "Express-Middleware-and-Routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevonthomas/Express-Middleware-and-Routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jevonthomas/Express-Middleware-and-Routing/issues"
+  },
+  "homepage": "https://github.com/jevonthomas/Express-Middleware-and-Routing#readme"
+}
